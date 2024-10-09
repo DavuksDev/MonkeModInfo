@@ -3,6 +3,10 @@
     "name" : "Core",
     "rank" : 0
   },
+      {
+    "name" : "ModMenus",
+    "rank" : 1
+  },
   {
     "name" : "Cosmetic",
     "rank" : 2
@@ -18,9 +22,5 @@
   {
     "name" : "Libraries",
     "rank" : 5
-  },
-    {
-    "name" : "ModMenus",
-    "rank" : 1
   }
 ]
